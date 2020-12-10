@@ -22,6 +22,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="geometry.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="model.cpp" />
+		<Unit filename="model.h" />
+		<Unit filename="tgaimage.cpp" />
+		<Unit filename="tgaimage.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

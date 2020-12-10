@@ -34,5 +34,6 @@
 
 *.ini
 *.depend
+*.layout
 bin/
 obj/
