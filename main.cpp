@@ -8,8 +8,8 @@ const TGAColor white = TGAColor(255, 255, 255, 255);
 const TGAColor red   = TGAColor(255, 0,   0,   255);
 const TGAColor green = TGAColor(0,   255, 0,   255);
 Model *model = NULL;
-const int width  = 800;
-const int height = 600;
+const int width  = 1000;
+const int height = 1000;
 
 void line(Vec2i p0, Vec2i p1, TGAImage &image, TGAColor color) {
     bool steep = false;
