@@ -33,5 +33,6 @@
 
 
 *.ini
+*.depend
 bin/
 obj/
